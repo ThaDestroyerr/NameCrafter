@@ -5,3 +5,4 @@ it can save you a lot of time considering the fact that there are a very few 3 l
 The program creates a Usernames.txt file on your desktop and writes the available usernames there
 
 Video Guide :
+https://www.youtube.com/watch?v=V-fQK0ZO2vc
